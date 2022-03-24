@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  clientID: '9f984050462e4a96b329de0aa85813c4',
-  clientSecret: '12f600837fb04c9093213c2e6593aac3',
-  userAPIBase: 'https://web433-a6-ltrokoz.herokuapp.com/api/user',
+  clientID: 'f0a6b4b78fa44d9e8b7ff931c17f2d0a',
+  clientSecret: '4c7837beeef14fa2a59006645896e1fb',
+  userAPIBase: 'https://web422finalass6.herokuapp.com/api/user',
 };
